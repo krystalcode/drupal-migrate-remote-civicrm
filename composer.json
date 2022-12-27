@@ -4,6 +4,8 @@
     "license": "GPL-2.0+",
     "minimum-stability": "dev",
     "require": {
-        "drupal/core": "^8.9 || ^9"
+        "drupal/core": "^8.9 || ^9",
+        "drupal/migrate_remote_destination": 'dev-main',
+        "drupal/migrate_drupal_8": 'dev-1.x'
     }
 }
